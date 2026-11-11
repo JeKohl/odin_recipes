@@ -1,0 +1,22 @@
+body {
+    background-color: #cdf1cd;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.navlinkcontainer {
+    margin: 0 auto;
+    background-color: #9ece9e;
+    box-sizing: border-box;
+    width: max-content;
+}
+
+.navlinks {
+    display: inline-block;
+    text-align: center;
+    background-color: #9ece9e;
+    padding: 20px;    
+}
